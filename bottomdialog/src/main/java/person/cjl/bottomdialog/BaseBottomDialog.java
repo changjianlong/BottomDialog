@@ -1,4 +1,4 @@
-package me.shaohui.bottomdialog;
+package person.cjl.bottomdialog;
 
 /**
  * Created by shaohui on 16/10/11.

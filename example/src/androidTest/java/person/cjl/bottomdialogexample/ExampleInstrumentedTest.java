@@ -1,4 +1,4 @@
-package me.shaohui.bottomdialogexample;
+package person.cjl.bottomdialogexample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

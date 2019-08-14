@@ -1,14 +1,11 @@
-package me.shaohui.bottomdialogexample;
+package person.cjl.bottomdialogexample;
 
-import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
-import android.view.inputmethod.InputMethodManager;
-import android.widget.EditText;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import me.shaohui.bottomdialog.BottomDialog;
+import person.cjl.bottomdialog.BottomDialog;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package me.shaohui.bottomdialogexample;
+package person.cjl.bottomdialogexample;
 
 import org.junit.Test;
 

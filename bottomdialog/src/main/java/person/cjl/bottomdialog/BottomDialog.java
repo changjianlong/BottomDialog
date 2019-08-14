@@ -1,4 +1,4 @@
-package me.shaohui.bottomdialog;
+package person.cjl.bottomdialog;
 
 import android.os.Bundle;
 

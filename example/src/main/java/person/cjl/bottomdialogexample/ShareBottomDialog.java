@@ -1,8 +1,7 @@
-package me.shaohui.bottomdialogexample;
+package person.cjl.bottomdialogexample;
 
-import android.app.FragmentManager;
 import android.view.View;
-import me.shaohui.bottomdialog.BaseBottomDialog;
+import person.cjl.bottomdialog.BaseBottomDialog;
 
 /**
  * Created by shaohui on 16/10/11.
