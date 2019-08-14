@@ -2,10 +2,12 @@ package me.shaohui.bottomdialogexample;
 
 import android.content.Context;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
+
+import androidx.appcompat.app.AppCompatActivity;
+
 import me.shaohui.bottomdialog.BottomDialog;
 
 public class MainActivity extends AppCompatActivity {
