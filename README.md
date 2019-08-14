@@ -15,15 +15,15 @@
 Maven
 
     <dependency>
-      <groupId>me.shaohui</groupId>
+      <groupId>person.changjianlong</groupId>
       <artifactId>bottomdialog</artifactId>
-      <version>1.1.9</version>
+      <version>1.0.0</version>
       <type>pom</type>
     </dependency>
     
 or Gradle
 
-	compile 'me.shaohui:bottomdialog:1.1.9'
+	compile 'person.changjianlong:bottomdialog:1.0.0'
 
 ## Uasge
 
@@ -94,7 +94,7 @@ If you are in the process of using, encountered any problems, welcome to put for
 
 ## License
 
-    Copyright 2016 shaohui10086
+    Copyright 2019 changjianlong
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
